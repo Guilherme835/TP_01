@@ -1,0 +1,27 @@
+git clone https://github.com/cristianocorrea3/tp-01.git
+
+git add
+
+git commit -m "comentários das alterações"
+
+git push origin master
+
+--------------------------------------------------------------------
+
+git branch
+
+git branch [nome da ramificação]
+
+git checkout -b funcionalidade_x
+
+git checkout master
+
+
+--------------------------------------------------------------------
+git log
+
+git status
+
+git config --global user.name “”
+
+git config --global user.email “cristiano.moraes4@etec.sp.gov.br”
